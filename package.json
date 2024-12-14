@@ -21,7 +21,7 @@
     "jwt-encode": "^1.0.1",
     "miragejs": "^0.1.47",
     "mockman-js": "^1.1.5",
-    "mongoose": "^8.4.1",
+    "mongoose": "^8.8.3",
     "paytmchecksum": "^1.5.1",
     "razorpay": "^2.8.6",
     "react": "^18.2.0",
